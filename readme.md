@@ -1,6 +1,6 @@
-# Robust-leteral-localizaion -
+# Robust-lateral-localizaion -
 
-This code is for vehicle leteral localization.
+This code is for vehicle lateral localization.
 
 ## Development Environment 
 IDE: Visual studio
